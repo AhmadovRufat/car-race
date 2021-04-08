@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#background {
+  background: transparent url(img/eclipse.jpg) no-repeat center center;
+  height: 100vh;
+}
+
+.start {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  width: 150px;
+  height: 50px;
+  font-size: 30px;
+  background-color: turquoise;
+  color: brown;
+}
+
+img {
+  position: absolute;
+  width: 100px;
+  left: 1000px;
+}
+
+#car0 {
+  top: 100px;
+  padding-left: 10px;
+}
+
+#car1 {
+  top: 200px;
+  padding-left: 7px;
+}
+
+#car2 {
+  top: 270px;
+  padding-left: 7px;
+}
+
+#car3 {
+  top: 370px;
+  padding-left: 7px;
+}
+
+#car4 {
+  top: 480px;
+}
